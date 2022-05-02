@@ -1,6 +1,6 @@
 # Hi, I'm Iván 👋💻
 
-I'm a full-stack software engineer with +8 years of experience and some crazy ideas about creating startups. 
+I'm a Full Stack Engineer with +8 years of experience and some crazy ideas about creating startups. 
 
 These last 3 years I've been on the journey of creating a startup. As an entrepreneur I'm happy to have developed and tested several startup ideas, create MVP's from scratch, work with amazing people, help our customers, lead teams, learn from all this process and do marketing to make these ideas known. Valuable lessons all along the way.
 

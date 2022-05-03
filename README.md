@@ -10,7 +10,6 @@ Some technologies I enjoy working with include: Typescript, Vue, Nuxt.js, Node.j
 
 ## Find me around the web 🌎:
 - Checkout my <a href="https://ivan.unamacro.com">Portfolio</a> with more information about me and my projects.
-[watch this repo](https://ivan.unamacro.com)
 
 ## Repositories
 Most of my work is in private repositories, which belong to startup projects I founded. You can contact me through LinkedIn and I'd love to show you more about my work.

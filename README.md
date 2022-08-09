@@ -9,11 +9,11 @@ Clean Code, Domain-Driven Design (DDD), Hexagonal Architecture, TDD, Microservic
 Some technologies I enjoy working with include: Typescript, Javascript, Vue, Nuxt.js, Node.js, Nest.js and ReactJS.
 
 ## Find me around the web 🌎:
-Checkout my
+Checkout my Portfolio with more information about me and my projects.
 </br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-ea580c?style=for-the-badge&labelColor=101010)](https://ivan.unamacro.com) 
-</br>
-with more information about me and my projects.
+[![Portfolio Here](https://img.shields.io/badge/Portfolio-ea580c?style=for-the-badge&labelColor=101010)](https://ivan.unamacro.com) 
+
+
 
 ## Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()

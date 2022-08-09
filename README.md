@@ -1,4 +1,4 @@
-# Hi, I'm Iván 👋💻
+# Hi there, I'm Iván 👋💻
 
 I'm a Full Stack Engineer with +8 years of experience and some crazy ideas about creating startups. 
 
@@ -8,6 +8,8 @@ Clean Code, Domain-Driven Design (DDD), Hexagonal Architecture, TDD, Microservic
 
 Some technologies I enjoy working with include: Typescript, Javascript, Vue, Nuxt.js, Node.js, Nest.js and ReactJS.
 
+## Find me around the web 🌎:
+Checkout my [![Portfolio](https://img.shields.io/badge/Portfolio-ea580c?style=for-the-badge&labelColor=101010)](https://ivan.unamacro.com) with more information about me and my projects.
 
 ## Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -28,22 +30,21 @@ Some technologies I enjoy working with include: Typescript, Javascript, Vue, Nux
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 </br>
-Others
+</br>
+**Others**
 </br>
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
 </br>
-Worked in the past with
+</br>
+**Worked in the past with**
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 </br>
-
-## Find me around the web 🌎:
-- Checkout my <a href="https://ivan.unamacro.com">Portfolio</a> with more information about me and my projects.
 
 ## Repositories
 Most of my work is in private repositories, which belong to startup projects I founded. You can contact me by email or LinkedIn and I'd love to show you more about my work.

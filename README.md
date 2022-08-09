@@ -12,7 +12,7 @@ Some technologies I enjoy working with include: Typescript, Javascript, Vue, Nux
 Checkout my Portfolio with more information about me and my projects.
 </br>
 </br>
-[![Portfolio/Website](https://img.shields.io/badge/Portfolio-Website-ea580c?style=for-the-badge&labelColor=101010)](https://ivan.unamacro.com) 
+[![Portfolio/Website](https://img.shields.io/badge/Portfolio/Website-ea580c?style=for-the-badge&labelColor=101010)](https://ivan.unamacro.com) 
 
 
 

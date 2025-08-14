@@ -1,12 +1,21 @@
 # Hi there, I'm Iván 👋💻
 
-I'm a Full Stack Engineer with +10 years of experience and some crazy ideas about creating startups. 
+Serial SaaS Founder • Fractional CTO • Senior Full-Stack/AI Engineer
 
-**These past 3 years I've been on the journey of creating a startup**. As an entrepreneur I'm happy to have developed and tested several startup ideas, created MVP's from scratch, worked with amazing people, helped our clients, led teams, learned from all this process and did marketing to make these ideas known. Valuable lessons all along the way.
+I’ve spent 10+ years shipping software. Over the last few years, I’ve focused on AI-powered products and helping teams adopt an AI-first development workflow that moves ideas from 0→1 fast.
+- I build investor-ready MVPs in 14–28 days.
+- ~80% of my commits start with AI-assisted coding.
+- Clean Code, DDD, Hexagonal Architecture, microservices, testing culture.
 
-Clean Code, Domain-Driven Design (DDD), Hexagonal Architecture, Microservices and Software Design Patterns.
+As an entrepreneur, I'm happy to have developed and tested several startup ideas, created MVPs from scratch, worked with amazing people, helped our clients, led teams, learned from this process, and done marketing to make these ideas known. Valuable lessons all along the way.
 
-Some technologies I enjoy working with include: Typescript, Javascript, Vue, Nuxt.js, Node.js, Nest.js and ReactJS.
+What I’m building now
+- [NeoPrompt.ai](https://neoprompt.ai) - Prompt marketplace + AI App Builder (create/share AI apps from prompts; multi-LLM; search over 150k+ prompts).
+  - [NeoBypass](https://neoprompt.ai/tools/neo-bypass) - AI Humanizer
+- [HamsterAds.com](https://hamsterads.com) - AI creative generation & persona workflows for ads.
+
+
+Some technologies I enjoy working with include: Next.js, Typescript, Javascript, Node.js, Nest.js, and ReactJS.
 
 ## Find me around the web 🌎:
 Checkout my Portfolio with more information about me and my projects.

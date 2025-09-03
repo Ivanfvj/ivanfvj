@@ -10,6 +10,7 @@ I've spent 10+ years shipping software. Over the last few years, I've focused on
 As an entrepreneur, I'm happy to have developed and tested several startup ideas, created MVPs from scratch, worked with amazing people, helped our clients, led teams, learned from this process, and done marketing to make these ideas known. Valuable lessons all along the way.
 
 # What I'm building now
+- [NeoBoost.ai](https://neoboost.ai) - Build your MVP with us in record time. AI Orchestration
 - [NeoPrompt.ai](https://neoprompt.ai) - Prompt marketplace + AI App Builder (create/share AI apps from prompts; multi-LLM; search over 150k+ prompts).
   - [NeoBypass](https://neoprompt.ai/tools/neo-bypass) - AI Humanizer
 - [HamsterAds.com](https://hamsterads.com) - AI creative generation & persona workflows for ads.
